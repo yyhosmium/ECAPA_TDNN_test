@@ -12,3 +12,7 @@ voxceleb1 full dataset path(VOX1_PATH) : 'voxceleb1_full_dataset/'
 voxceleb2 parital dataset path(VOX2_PATH) : 'voxceleb_dataset/voxceleb2_dev_iip/voxceleb2_dev_iip/'
 
 -> test label path(voxceleb2_dev_iip.txt) : 'voxceleb_dataset/voxceleb2_dev_iip/voxceleb2_dev_iip/'  
+
+
+
+train_code.py is for using multiprocessing(DataLoader num_workers > 0)
