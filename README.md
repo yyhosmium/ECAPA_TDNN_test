@@ -17,5 +17,5 @@ trained model state_dict : https://drive.google.com/file/d/1JBspz1h4r-Hym63c_kKw
 
 validation EER/minDCF : 2.9 , 0.1976
 
-      test EER/minDCF : 4.11, 0.2033
+test EER/minDCF : 4.11, 0.2033
 
